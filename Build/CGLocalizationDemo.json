@@ -1,0 +1,13 @@
+{
+"companyName": "COBO Games",
+"productName": "CGLocalization Demo",
+"dataUrl": "CGLocalizationDemo.data.unityweb",
+"wasmCodeUrl": "CGLocalizationDemo.wasm.code.unityweb",
+"wasmFrameworkUrl": "CGLocalizationDemo.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#1D1D1D",
+"cacheControl": {"default": "must-revalidate"}
+}
